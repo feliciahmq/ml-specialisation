@@ -2,7 +2,7 @@
 
 My learnings from [Machine Learning Specialisation course by DeepLearning.AI & Stanford](https://www.deeplearning.ai/courses/machine-learning-specialization/). 
 
-My certificate : [here]()
+My certificate : [here](https://coursera.org/share/f8c60f72eda695b6821600192e9887e4)
 
 ## Course Content
 
